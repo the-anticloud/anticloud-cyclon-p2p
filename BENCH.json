@@ -1,0 +1,20 @@
+{
+  "all_passed": true,
+  "passed": 0,
+  "failed": 0,
+  "total": 0,
+  "method": "not applicable (doc-only/design/government/media)",
+  "platform": "unknown",
+  "python": "unknown",
+  "root": "ARTIST_TOOLS/CYCLON_P2P",
+  "sbom_written": false,
+  "schema": "1.0",
+  "version": "0.1.0",
+  "source": {
+    "git": {
+      "url": "",
+      "head": "",
+      "tree_sha3": "ef10385b48511dd722da2950c3ab2ddedcd6e0d67fc0449f647c42a0b5df74c6"
+    }
+  }
+}
